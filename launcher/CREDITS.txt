@@ -1,0 +1,13 @@
+Icones des menus
+================
+Une partie des icones peintes dans les decors de menus provient du pack
+"RPG Icon Pack" d'Akari21, achete sur itch.io :
+   https://akari21.itch.io/icon-pack
+
+Licence : usage personnel et commercial autorise, modification autorisee,
+revente et redistribution des fichiers d'origine interdites. Les icones ne
+sont donc jamais livrees telles quelles : elles sont composees dans les
+images de decor du pack de ressources.
+
+Le reste du decor vient de MidasGUI, et les badges de rang, la police des
+titres et les Ball des kits sont dessines pour PokeFrance.
