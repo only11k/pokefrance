@@ -1,0 +1,297 @@
+{
+  "version": "20260906124006",
+  "dossiersGeres": [
+    "mods",
+    "resourcepacks"
+  ],
+  "fichiers": [
+    {
+      "chemin": "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__accessories-fabric-1.1.0-beta.53.1.21.1.jar",
+      "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b",
+      "taille": 1095802
+    },
+    {
+      "chemin": "mods/architectury-13.0.11-fabric.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__architectury-13.0.11-fabric.jar",
+      "sha1": "18200609d4c3571c4237b50884966f6fd82431ea",
+      "taille": 600921
+    },
+    {
+      "chemin": "mods/athena-fabric-1.21.1-4.0.6.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__athena-fabric-1.21.1-4.0.6.jar",
+      "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0",
+      "taille": 88425
+    },
+    {
+      "chemin": "mods/chipped-fabric-1.21.1-4.0.2.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__chipped-fabric-1.21.1-4.0.2.jar",
+      "sha1": "add18f65d7b131e05313cd98069cb71adac3483c",
+      "taille": 15016830
+    },
+    {
+      "chemin": "mods/CobbleFurnies-fabric-1.2.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__CobbleFurnies-fabric-1.2.jar",
+      "sha1": "a71f20907c3350680a11054584cf96963f5875e5",
+      "taille": 2337235
+    },
+    {
+      "chemin": "mods/cobblehunts-1.1.2.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__cobblehunts-1.1.2.jar",
+      "sha1": "dcbd99fc2a191258058df8127c8fcc14ebb361de",
+      "taille": 380361
+    },
+    {
+      "chemin": "mods/cobblemon-economy-0.0.17.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__cobblemon-economy-0.0.17.jar",
+      "sha1": "f3379a436f045af3d3f35f63661e4cd77c9d68cd",
+      "taille": 15201395
+    },
+    {
+      "chemin": "mods/Cobblemon-fabric-1.7.3+1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__Cobblemon-fabric-1.7.3.1.21.1.jar",
+      "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
+      "taille": 135801550
+    },
+    {
+      "chemin": "mods/cobblemon-secret-base-trainer-fabric-1.14.29.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__cobblemon-secret-base-trainer-fabric-1.14.29.jar",
+      "sha1": "cf71c3f972b5588fc295c454418234547275354c",
+      "taille": 546112
+    },
+    {
+      "chemin": "mods/Cobblemon-Trainer-Pass-1.3.5.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__Cobblemon-Trainer-Pass-1.3.5.jar",
+      "sha1": "791deb936f42256467aca11ba04cfe158cfc4293",
+      "taille": 763238
+    },
+    {
+      "chemin": "mods/cobblemonalphas-1.4.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__cobblemonalphas-1.4.1.jar",
+      "sha1": "10cb391a4bbf2a2ca342dad214c1230f175ce817",
+      "taille": 510732
+    },
+    {
+      "chemin": "mods/CobblemonExtras-fabric-1.5.0.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__CobblemonExtras-fabric-1.5.0.jar",
+      "sha1": "b28c975f5925f56a73815be0bdb30b13c57a2608",
+      "taille": 5036503
+    },
+    {
+      "chemin": "mods/cobblemonraiddens-fabric-0.11.7+1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__cobblemonraiddens-fabric-0.11.7.1.21.1.jar",
+      "sha1": "a5e64217dfd44c1b4e719dcebd5928bbb493a74d",
+      "taille": 2691582
+    },
+    {
+      "chemin": "mods/cobblenav-fabric-2.3.3.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__cobblenav-fabric-2.3.3.jar",
+      "sha1": "63681a16bc562089329533686fcc60e7bb7cd63d",
+      "taille": 1090821
+    },
+    {
+      "chemin": "mods/CobbleverseBadges-1.3.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__CobbleverseBadges-1.3.jar",
+      "sha1": "8e213de6013b6a58485ba8ddfcff5c91b3beb41d",
+      "taille": 137015
+    },
+    {
+      "chemin": "mods/counter-fabric-1.7.3-1.9.0.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__counter-fabric-1.7.3-1.9.0.jar",
+      "sha1": "f4ea79a0518b62c2be083643005a2346d67a227c",
+      "taille": 164958
+    },
+    {
+      "chemin": "mods/customchestmenus-fabric-1.21.1-2.3.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__customchestmenus-fabric-1.21.1-2.3.1.jar",
+      "sha1": "8162af3f7063395965d2383251bc955ccf365740",
+      "taille": 172692
+    },
+    {
+      "chemin": "mods/everlastingutils-1.1.6.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__everlastingutils-1.1.6.jar",
+      "sha1": "0b8a10a3c25e24a17b135d89189bcbc0c1526d94",
+      "taille": 1201719
+    },
+    {
+      "chemin": "mods/fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__fabric-api-0.116.17.1.21.1.jar",
+      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c",
+      "taille": 2452735
+    },
+    {
+      "chemin": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__fabric-language-kotlin-1.13.13.kotlin.2.4.10.jar",
+      "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
+      "taille": 8076363
+    },
+    {
+      "chemin": "mods/ferritecore-7.0.3-fabric.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__ferritecore-7.0.3-fabric.jar",
+      "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+      "taille": 123450
+    },
+    {
+      "chemin": "mods/flan-1.21.1-1.12.8-fabric.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__flan-1.21.1-1.12.8-fabric.jar",
+      "sha1": "debe440eeb5440765115b1d50269df9014ba12ea",
+      "taille": 946658
+    },
+    {
+      "chemin": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
+      "taille": 633065
+    },
+    {
+      "chemin": "mods/ftb-chunks-fabric-2101.1.21.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__ftb-chunks-fabric-2101.1.21.jar",
+      "sha1": "b9602bd2a57ea3a612c1665c5d94ef614e6f9fa4",
+      "taille": 647238
+    },
+    {
+      "chemin": "mods/ftb-library-fabric-2101.1.35.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__ftb-library-fabric-2101.1.35.jar",
+      "sha1": "5fe04b22a76dd1c9ff0000c2b31af8c73682dc8c",
+      "taille": 1434871
+    },
+    {
+      "chemin": "mods/ftb-teams-fabric-2101.1.11.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__ftb-teams-fabric-2101.1.11.jar",
+      "sha1": "9b07ff01ed801d40c5574d8b2c3dd3d7a00dc099",
+      "taille": 303801
+    },
+    {
+      "chemin": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__geckolib-fabric-1.21.1-4.9.2.jar",
+      "sha1": "b95b1d631baeada54c6773ca8f6ede40d57fea46",
+      "taille": 660416
+    },
+    {
+      "chemin": "mods/InventorySorter-1.9.0-1.21.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__InventorySorter-1.9.0-1.21.jar",
+      "sha1": "bdb968ff98c338af9826f3acd0ed42afae8b8f5f",
+      "taille": 224380
+    },
+    {
+      "chemin": "mods/iris-fabric-1.8.7+mc1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__iris-fabric-1.8.7.mc1.21.1.jar",
+      "sha1": "68d009b24b21970635ecf203d367477706601da1",
+      "taille": 2690171
+    },
+    {
+      "chemin": "mods/krypton-0.2.8.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__krypton-0.2.8.jar",
+      "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
+      "taille": 161045
+    },
+    {
+      "chemin": "mods/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+      "sha1": "b97c7bf8c9c445658e9fdc74045871ce55dbec61",
+      "taille": 16611506
+    },
+    {
+      "chemin": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__lithium-fabric-0.15.4.mc1.21.1.jar",
+      "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
+      "taille": 797454
+    },
+    {
+      "chemin": "mods/lithostitched-1.8.0+beta5-fabric-21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__lithostitched-1.8.0.beta5-fabric-21.1.jar",
+      "sha1": "9a97321b8cfc8e5a3089793d523f1ea2b91e6522",
+      "taille": 946183
+    },
+    {
+      "chemin": "mods/mega_showdown-fabric-1.9.8+1.7.3+1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__mega_showdown-fabric-1.9.8.1.7.3.1.21.1.jar",
+      "sha1": "9928eb67d55788642c52377672707c61d25df9c1",
+      "taille": 20392677
+    },
+    {
+      "chemin": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__modernfix-fabric-5.25.1.mc1.21.1.jar",
+      "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
+      "taille": 471258
+    },
+    {
+      "chemin": "mods/owo-lib-0.13.0-alpha.15+1.21.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__owo-lib-0.13.0-alpha.15.1.21.jar",
+      "sha1": "5042f3b15df7cdbb058436bb105aedf826f39d3c",
+      "taille": 1963544
+    },
+    {
+      "chemin": "mods/pokefrance-guildes-1.6.0.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__pokefrance-guildes-1.6.0.jar",
+      "sha1": "b41b0820cb09d319e5cb62249c1f4b0e1357ec23",
+      "taille": 100371
+    },
+    {
+      "chemin": "mods/pokefrance-menu-1.2.0.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__pokefrance-menu-1.2.0.jar",
+      "sha1": "66b8ce3d113137afe59af3102b97fce20c3ca5db",
+      "taille": 736042
+    },
+    {
+      "chemin": "mods/rctapi-fabric-1.21.1-0.15.2-beta.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__rctapi-fabric-1.21.1-0.15.2-beta.jar",
+      "sha1": "a75bb662e507c3932304d80ed514ec57e5dbf69b",
+      "taille": 234250
+    },
+    {
+      "chemin": "mods/rctmod-fabric-1.21.1-0.18.1-beta.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__rctmod-fabric-1.21.1-0.18.1-beta.jar",
+      "sha1": "00bf82e254bddb804529222567e5719310524085",
+      "taille": 6757956
+    },
+    {
+      "chemin": "mods/resourcefullib-fabric-1.21-3.0.12.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__resourcefullib-fabric-1.21-3.0.12.jar",
+      "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd",
+      "taille": 485586
+    },
+    {
+      "chemin": "mods/safari-dimension-0.0.14.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__safari-dimension-0.0.14.jar",
+      "sha1": "bc57a04b4c5d8b781e0256e6ae08fb3f3cce830e",
+      "taille": 266856
+    },
+    {
+      "chemin": "mods/SimpleTMs-fabric-2.3.3.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__SimpleTMs-fabric-2.3.3.jar",
+      "sha1": "3433763bf6e20639213fd31a45da187968e61ffe",
+      "taille": 821382
+    },
+    {
+      "chemin": "mods/sodium-fabric-0.6.9+mc1.21.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__sodium-fabric-0.6.9.mc1.21.1.jar",
+      "sha1": "7953f77ac52ca2b1c6a7e483553b2a345f1b2a9c",
+      "taille": 1297415
+    },
+    {
+      "chemin": "mods/timcore-fabric-1.7.3-1.32.0.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__timcore-fabric-1.7.3-1.32.0.jar",
+      "sha1": "3a791c747a4beb4debf691c168f6e6b84efacd15",
+      "taille": 304444
+    },
+    {
+      "chemin": "resourcepacks/cmc-release.zip",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/resourcepacks__cmc-release.zip",
+      "sha1": "82745faed6e9c77c562ec2ac09e7ac9a12ec8960",
+      "taille": 2731677
+    },
+    {
+      "chemin": "resourcepacks/PokeFrance.zip",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/resourcepacks__PokeFrance.zip",
+      "sha1": "605b4cb11183221543ba3313e55edf815e51acfe",
+      "taille": 299373
+    },
+    {
+      "chemin": "resourcepacks/pokopia-1.1.zip",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/resourcepacks__pokopia-1.1.zip",
+      "sha1": "572a341a84652f611586cb889c486f667bb9a825",
+      "taille": 109784
+    }
+  ]
+}
