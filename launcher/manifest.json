@@ -1,5 +1,5 @@
 {
-  "version": "20261008211312",
+  "version": "20261008212050",
   "dossiersGeres": [
     "mods",
     "resourcepacks"
@@ -234,10 +234,10 @@
       "taille": 1963544
     },
     {
-      "chemin": "mods/pokefrance-guildes-1.26.0.jar",
-      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20261008/mods__pokefrance-guildes-1.26.0.jar",
-      "sha1": "a4b952fbd350d7901d7db79886de6a21bbdb6606",
-      "taille": 274445
+      "chemin": "mods/pokefrance-guildes-1.26.1.jar",
+      "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20261008-2/mods__pokefrance-guildes-1.26.1.jar",
+      "sha1": "4cdf7ffe15e5a611291c388914e0767e29f54300",
+      "taille": 275239
     },
     {
       "chemin": "mods/pokefrance-menu-1.2.0.jar",
