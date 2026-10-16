@@ -1,5 +1,5 @@
 {
-  "version": "20261016130614",
+  "version": "20261016142923",
   "dossiersGeres": [
     "mods",
     "resourcepacks"
@@ -286,6 +286,12 @@
       "url": "https://github.com/only11k/pokefrance/releases/download/modpack-20260906/mods__timcore-fabric-1.7.3-1.32.0.jar",
       "sha1": "3a791c747a4beb4debf691c168f6e6b84efacd15",
       "taille": 304444
+    },
+    {
+      "chemin": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
+      "taille": 5369475
     },
     {
       "chemin": "resourcepacks/cmc-release.zip",
